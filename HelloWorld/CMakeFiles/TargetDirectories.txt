@@ -1,0 +1,3 @@
+/home/billy/Cpp/HelloWorld/CMakeFiles/HelloWorld.dir
+/home/billy/Cpp/HelloWorld/CMakeFiles/edit_cache.dir
+/home/billy/Cpp/HelloWorld/CMakeFiles/rebuild_cache.dir
